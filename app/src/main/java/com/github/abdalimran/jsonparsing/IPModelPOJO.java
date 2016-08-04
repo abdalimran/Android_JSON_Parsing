@@ -311,8 +311,8 @@ public class IPModelPOJO {
                 "Region: "+getRegionName()+"\n"+
                 "Country: "+getCountry()+"\n"+
                 "Country Code: "+getCountryCode()+"\n"+
-                "Lattitude :"+getLat()+"\n"+
-                "Longitude :"+getLon()+"\n"+
+                "Latitude: "+getLat()+"\n"+
+                "Longitude: "+getLon()+"\n"+
                 "IP Address: "+getQuery()+"\n"+
                 "ISP: "+getIsp();
     }
